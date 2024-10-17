@@ -1,4 +1,4 @@
-# Data-Exploration-with-Excel
+# DATA EXPLORATION WITH EXCEL
 This project involved an in-depth analysis of sales and profit performance using Microsoft Excel. The primary focus was to visualize key business metrics and provide insights into the company's revenue composition, sales agents' performance, and location-based sales trends. The analysis utilized various Excel features, including charts, pivot tables, and slicers to enhance interactivity and data exploration. 
 
 # INSIGHTS AND RECOMMENDATIONS
